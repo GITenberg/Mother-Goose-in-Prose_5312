@@ -1,0 +1,53 @@
+_repo: Mother-Goose-in-Prose_5312
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 5312/5312-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Bancroft, Laura
+    - Baum, Lyman Frank
+    - Van Dyne, Edith
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: "Mother Goose in Prose is a collection of twenty-two children's stories\
+  \ based on Mother Goose nursery rhymes. It was the first children's book written\
+  \ by L. Frank Baum, and the first book illustrated by Maxfield Parrish. It was originally\
+  \ published in 1897 by Way and Williams of Chicago, and re-released by the George\
+  \ M. Hill Company in 1901.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's Picture Books
+- Children's Literature
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5312'
+  wikidata: Q6917355
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursery rhymes -- Adaptations'
+- !lcsh 'Tales'
+- !lcc 'PZ'
+- !lcsh 'Folklore'
+- GITenberg
+tableOfContents: Sing a song o' sixpence -- The story of Little Boy Blue -- The cat
+  and the fiddle -- The black sheep -- Old King Cole -- Mistress Mary -- The wond'rous
+  wise man -- What Jack Horner did -- The man in the moon -- The jolly miller -- The
+  little man and his little gun -- Hickory dickory dock -- Little Bo-Peep -- The story
+  of Tommy Tucker -- Pussy-cat Mew -- How the beggars came to town -- Tom, the piper's
+  son -- Humpty Dumpty -- The woman who lived in a shoe -- Little Miss Muffet -- Three
+  wise men of Gotham -- Little Bun Rabbit.
+title: Mother Goose in Prose
+url: http://www.gutenberg.org/ebooks/5312
+wikipedia:
+- https://en.wikipedia.org/wiki/Mother_Goose_in_Prose
