@@ -1,10 +1,8 @@
 _repo: Mother-Goose-in-Prose_5312
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 5312/5312-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 5312-h/images/cover.jpg
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -22,6 +20,8 @@ description: "Mother Goose in Prose is a collection of twenty-two children's sto
   \ by L. Frank Baum, and the first book illustrated by Maxfield Parrish. It was originally\
   \ published in 1897 by Way and Williams of Chicago, and re-released by the George\
   \ M. Hill Company in 1901.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5312#Mother-Goose-in-Prose
 gutenberg_bookshelf:
 - Children's Picture Books
 - Children's Literature
